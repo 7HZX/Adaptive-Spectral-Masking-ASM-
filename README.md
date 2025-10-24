@@ -12,4 +12,5 @@ Modified Files
 4. Channel-Attention Repository (https://github.com/martinwimpff/channel-attention)
 ​​Modified Files​​:
 channel_attention/models/shallownet.py
+
 channel_attention/models/tsseffnet.py

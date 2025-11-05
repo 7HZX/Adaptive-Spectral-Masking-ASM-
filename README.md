@@ -1,6 +1,6 @@
 Code Modifications Description
 Modified Files
-1. FBCNet Repository (https://github.com/ravikiran-mane/FBCNe)
+1. FBCNet Repository (https://github.com/ravikiran-mane/FBCNet)
 ​​Modified File​​: codes/centralRepo/networks.py
 
 2. LightConvNet Repository ((https://github.com/Ma-Xinzhi/LightConvNet)
